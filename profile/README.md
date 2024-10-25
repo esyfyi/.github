@@ -1,2 +1,2 @@
-# Esy.fyi
-Make your life Esy!
+# Esyfy
+Make your life esy!
